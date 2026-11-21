@@ -1,0 +1,7 @@
+'LiouvilleEnergyRH.PrimeCount.psi_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.PrimeCount.theta_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.PrimeCount.prime_in_short_interval' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.psi_bound_of_H' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.theta_bound_of_H' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.prime_gap_of_H' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.riemannHypothesis_of_H' depends on axioms: [propext, Classical.choice, Quot.sound]
